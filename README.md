@@ -27,4 +27,4 @@ Nesta disciplina de Programação de Aplicativos, meus objetivos são:
 ## Contato
 
 - GitHub: [M3LLOUU]
-- Email: [seu-email]
+- Email: [jaime_neckel-junior@estudante.sesisenai.org.br]
